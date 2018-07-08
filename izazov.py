@@ -20,7 +20,7 @@ LVL3 - Veliki Hudini:
 * Načinite potrebne promene kako biste stvorili pesmu Dečak iz Petnice i ispišite tu pesmu.
   HINT: http://python-reference.readthedocs.io/en/latest/docs/str/endswith.html
 
-Imate pravo za jedan dodatan hint na svakih 7 minuta. Pošaljite pitanje u Viber grupi.
+Imate pravo za jedan dodatan hint na svakih 10 minuta tokom naredna 2 sata. Pošaljite pitanje u Viber grupi.
 
 """
 
