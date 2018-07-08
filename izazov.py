@@ -16,7 +16,7 @@ LVL2 - Vešti Vebster:
 * BONUS: Neka ispisani rečnik bude poređan po abecedi.
   HINT: http://python-reference.readthedocs.io/en/latest/docs/functions/sorted.html
 
-LVL3 - Kraljevski krotitelj zmija:
+LVL3 - Veliki Hudini:
 * Načinite potrebne promene kako biste stvorili pesmu Dečak iz Petnice i ispišite tu pesmu.
   HINT: http://python-reference.readthedocs.io/en/latest/docs/str/endswith.html
 
